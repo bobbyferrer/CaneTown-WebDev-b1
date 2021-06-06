@@ -1,5 +1,17 @@
 .loader {
-  position: absolute;
-  top: 50%;
-  left: 47%;
+  position: absolute !important;
+  top: 50% !important;
+  left: 47% !important;
+}
+
+.btn-extend {
+  display: block;
+  width: 80%;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.login {
+  margin-top: 70px !important;
+  margin-bottom: 70px !important;
 }
